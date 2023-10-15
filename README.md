@@ -1,4 +1,4 @@
-minecraft v1
+
 {
     "DFIntTaskSchedulerTargetFps": 1500,
 	"FFlagDebugDisplayFPS": false,
